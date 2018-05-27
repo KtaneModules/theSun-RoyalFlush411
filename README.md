@@ -1,1 +1,1 @@
-theSun
+The Sun (GitHub)
